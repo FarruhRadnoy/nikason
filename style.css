@@ -1,6 +1,6 @@
-.head{
+.header{
     background: #E5E5E5;
-    padding: 31px 129px 31px 133px;
+    padding: 30px 0 ;
 }
 .nav-link {
     font-family: 'Open Sans';
@@ -10,14 +10,9 @@
     line-height: 150%;
     text-align: center;
     color: #323232;
-    margin-right: 82px;
 }
 .navbar-nav{
     align-items: center;
-}
-.png01{
-    margin-left: 133px;
-    margin-right: 215px;
 }
 .nav-links {
     font-family: 'Open Sans';
@@ -27,7 +22,6 @@
     line-height: 150%;
     text-align: center;
     color: #323232;
-    margin-right: 82px;
 }
 .png02{
     width: 100%;
