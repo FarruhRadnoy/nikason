@@ -12,6 +12,9 @@
     color: #323232;
     margin-right: 82px;
 }
+.navbar-nav{
+    align-items: center;
+}
 .png01{
     margin-left: 133px;
     margin-right: 215px;
