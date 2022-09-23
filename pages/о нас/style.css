@@ -1,0 +1,194 @@
+.head{
+    background: #E5E5E5;
+    padding: 31px 129px 31px 133px;
+}
+.nav-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #323232;
+    margin-right: 82px;
+}
+.png01{
+    margin-left: 133px;
+    margin-right: 215px;
+}
+.nav-links {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #323232;
+    margin-right: 82px;
+}
+.png02{
+    width: 1160px;
+    margin-bottom: 50px;
+}
+.sec01{
+    background: #E5E5E5;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid #000000;
+
+}
+.sec01 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    text-align: center;
+    color: #57463A;    
+}
+.te{
+    padding: 50px 0;
+    margin-left: 100px;
+}
+.te h1{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+}
+.te p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #000000;
+}
+.sec02{
+    background: #E5E5E5;
+    padding-top: 150px;
+}
+.tex h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+}
+.tex p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #000000;
+}
+.sec03 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+}
+.sec03{
+    background: #E5E5E5;
+    padding-top: 100px;
+}
+.sec03 p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 150%;
+    text-align: right;
+    color: #323232;
+    align-self: flex-end;
+}
+.sec04{
+    background: #E5E5E5;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sec04 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+    align-self: flex-start;
+}
+.sec04 p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #323232;
+    margin-left: 150px;
+    align-self: flex-start;
+}
+.sec06{
+    background: #E5E5E5;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.sec06 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+    align-self: flex-start;
+}
+.sec06 button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #F6F6F6;
+    background: #A1B29F;
+    margin-top: 50px;
+    border: none;
+    width: 245px;
+    height: 60px;
+}
+.finish{
+    background-color: #715B4B;
+}
+.fin-block h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F6F6F6;
+}
+.end{
+    padding-top: 85px;
+    padding-bottom: 240px;
+    display: flex;
+    justify-content: center;
+}
+.fin-block img{
+    margin-right: 30px;
+    width: 140px;
+    height: 52px;
+}

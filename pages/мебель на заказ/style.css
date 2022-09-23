@@ -1,0 +1,240 @@
+.head{
+    background: #E5E5E5;
+    padding: 31px 129px 31px 133px;
+}
+.nav-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #323232;
+    margin-right: 82px;
+}
+.png01{
+    margin-left: 133px;
+    margin-right: 215px;
+}
+.nav-links {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #323232;
+    margin-right: 82px;
+}
+.sec01{
+    background: url(./img/02.png);
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sec01 h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F6F6F6;
+    margin-top: 180px;
+}
+.sec01 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #F6F6F6;
+}
+.sec01 button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #715B4B;
+    background: #F6F6F6;
+    margin-top: 50px;
+    width: 330px;
+    height: 60px;
+    border: none;
+}
+.text-poc{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+}
+.sec02{
+    background: #E5E5E5;
+    padding-top: 150px;
+}
+.dav{
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0;
+}
+.bord{
+    border-bottom: 1px solid #715B4B;
+}
+.bord h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #323232;
+}
+.tex p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #323232;
+}
+.sec03{
+    padding-top: 100px;
+    background-color: #E5E5E5;
+}
+.sec03 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+}
+.he{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+.colu{
+    display: flex;
+    padding-top: 5px;
+}
+.raz{
+    width: 800px;
+    height: 700px;
+}
+.sec04{
+    background: #E5E5E5;
+    padding-top: 150px;
+}
+.sec04 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+}
+.sec-block{
+    border: 1px solid #000000;
+    padding: 10px 42px 30px 40px;
+    display: flex;
+    flex-direction: column;
+}
+.sec-block h1{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 300px;
+    align-self: flex-end;
+}
+.sec-block p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 102.99%;
+    color: #323232;
+}
+.sec05{
+    background: #E5E5E5;
+    padding-top: 150px;
+}
+.sec05 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+}
+.images{
+    justify-content: center;
+    padding-top: 50px;
+}
+.sec06{
+    background: #E5E5E5;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.sec06 h2{
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    color: #57463A;
+    margin-left: 150px;
+    align-self: flex-start;
+}
+.sec06 button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #F6F6F6;
+    background: #A1B29F;
+    margin-top: 50px;
+    border: none;
+    width: 245px;
+    height: 60px;
+}
+.finish{
+    background-color: #715B4B;
+}
+.fin-block h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F6F6F6;
+}
+.end{
+    padding-top: 85px;
+    padding-bottom: 240px;
+    display: flex;
+    justify-content: center;
+}
+.fin-block img{
+    margin-right: 30px;
+    width: 140px;
+    height: 52px;
+}
