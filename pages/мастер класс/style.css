@@ -1,6 +1,6 @@
 .head{
     background: #E5E5E5;
-    padding: 31px 129px 31px 133px;
+    padding: 30px 90px;
 }
 .nav-link {
     font-family: 'Open Sans';
@@ -10,7 +10,7 @@
     line-height: 150%;
     text-align: center;
     color: #323232;
-    margin-right: 82px;
+    margin-right: 80px;
 }
 .navbar-nav{
     align-items: center;
